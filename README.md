@@ -1,3 +1,7 @@
+# Candy Crush by React (Initial Version)
+
+This is a simple Candy Crush Game by React.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
